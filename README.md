@@ -1,1 +1,1 @@
-# https-github.com-Maan-Gans-Spam-Sms
+# https://github.com/Maan-Gans/Spam-Sms
